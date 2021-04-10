@@ -12,7 +12,7 @@ namespace LecturaDeArchivos
             {
                 string fila;
                 int contador = 0;
-                string path = @"C:\Users\Rodrigo\Desktop\prueba.txt";
+                string path = @"prueba.txt";
 
                 archivo = new System.IO.StreamReader(path);
 
